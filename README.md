@@ -5,4 +5,4 @@ This project addresses the problem of road segmentation in autonomous driving, a
 
 - [FCN](https://drive.google.com/file/d/1ZWJ1y4rOyzD5dNCCY8oAGNRhH1CpqVsQ/view?usp=drive_link)
 - [UNet](https://drive.google.com/file/d/1365dIP9GsIpd1UcNVZaBYWQZIzn6d6hc/view?usp=drive_link)
-- [SegFormer](https://drive.google.com/file/d/1ZWJ1y4rOyzD5dNCCY8oAGNRhH1CpqVsQ/view?usp=drive_link)
+- [SegFormer](https://drive.google.com/file/d/109f6WKoG32f7rdd-Wk6GRiNY75mHjM3i/view?usp=sharing)
